@@ -15,8 +15,7 @@ web-build/
 *.p12
 *.key
 *.mobileprovision
-
-.src/services/firebase.js
+.env
 # Metro
 .metro-health-check*
 
